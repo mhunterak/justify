@@ -1,5 +1,7 @@
 To run, simply execute:
 > python3 justify.py
+
+
 Successful execution will run all tests, and return the array from the example, meeting requirements.
 
 ## CHALLENGE INSTRUCTIONS
